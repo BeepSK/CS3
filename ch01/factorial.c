@@ -1,3 +1,4 @@
+//Make a routine or a subroutine for calculating factorials
 #include<stdio.h>
 #include<math.h>
 
