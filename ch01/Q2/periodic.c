@@ -1,4 +1,4 @@
-//A simple table of trigonometric values
+//Periodic function f(x,y)
 #include<stdio.h>
 #include<math.h>
 
