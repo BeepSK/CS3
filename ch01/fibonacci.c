@@ -1,3 +1,4 @@
+//Calculating the fibonnaci sequence until a given limit
 #include<stdio.h>
 #include<math.h>
 
