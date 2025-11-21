@@ -1,3 +1,4 @@
+//A simple table of trigonometric values
 #include<stdio.h>
 #include<math.h>
 
