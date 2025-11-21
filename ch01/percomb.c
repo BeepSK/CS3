@@ -1,3 +1,4 @@
+//Calculating permutations and combinations
 #include<stdio.h>
 #include<math.h>
 #include "fact.c" //Using the subroutine I made earlier
