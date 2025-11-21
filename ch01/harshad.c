@@ -1,3 +1,6 @@
+/*Some integers have a property that they are divisible by the sum of their digits. Thus, 84 is one 
+such number since it is divisible by 8 + 4 = 12. Let us call them Harshad numbers. Write a
+program to nd all the Harshad numbers between 50 and 70 both inclusive. */
 #include<stdio.h>
 #include<math.h>
 
