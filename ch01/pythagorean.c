@@ -1,3 +1,4 @@
+//Calculated all pythagorean pairs occuring before c=100
 #include<stdio.h>
 #include<math.h>
 
