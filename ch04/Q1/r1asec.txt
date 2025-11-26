@@ -1,0 +1,5 @@
+There are 2 roots for this equation.
+
+Using the values -0.371405 and -0.371418, we get the Root=-0.371418 f(x)=0.000056
+
+Using the values 0.605267 and 0.605267, we get the Root=0.605267 f(x)=0.000001

@@ -1,0 +1,5 @@
+There are 2 roots for this equation.
+
+Using the values -0.380001 and -0.370001, we get xm=0.499939 f(xm)=0.398926.
+
+Using the values 0.599999 and 0.609999, we get xm=0.605225 f(xm)=0.000179.

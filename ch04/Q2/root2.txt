@@ -1,0 +1,4 @@
+There are 3 roots.
+For n=3, Root=2.404825 j0(x)=0.000001
+For n=3, Root=5.520079 j0(x)=0.000000
+For n=3, Root=8.653724 j0(x)=0.000001
