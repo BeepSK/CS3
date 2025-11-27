@@ -1,0 +1,2 @@
+Trapezoidal rule: 0.142217
+Simpson's rule: 0.142203
